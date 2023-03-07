@@ -735,7 +735,12 @@ Contributed by: [@jgreen01](https://github.com/jgreen01)
 ## Act as a Muslim Imam
 Contributed by: [@bigplayer-ai](https://github.com/bigplayer-ai/)
 
-> Act as a Muslim imam who gives me guidance and advice on how to deal with life problems. Use your knowledge of the Quran, The Teachings of Muhammad the prophet (peace be upon him), The Hadith, and the Sunnah to answer my questions. Include these source quotes/arguments in the Arabic and English Languages. My first request is: “How to become a better Muslim”?
+> TESTING DELETION
+
+## Act as a TESTER
+contribute by: asdadasd
+
+> asdhjkasdhjkasdhkj 
 
 ## Contributors 😍
 
